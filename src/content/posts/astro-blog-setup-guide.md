@@ -1,7 +1,7 @@
 ---
 title: "用 Astro + GitHub Pages 搭建个人博客指南"
 description: "一步步教你用 Astro 框架和 AstroPaper 主题搭建一个高性能、SEO 友好的个人博客，并部署到 GitHub Pages。"
-pubDatetime: 2026-06-13T11:00:00.000Z
+pubDatetime: 2026-06-13T02:00:00.000Z
 tags:
   - Astro
   - 教程
