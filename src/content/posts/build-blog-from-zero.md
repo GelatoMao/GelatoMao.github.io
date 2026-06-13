@@ -1,7 +1,7 @@
 ---
 title: "从零搭建个人博客：踩坑实录与完整指南"
 description: "记录我用 Astro + AstroPaper + GitHub Pages 从零搭建博客的全过程，包括框架选型、主题配置、部署踩坑和最终解决方案。"
-pubDatetime: 2026-06-13T04:00:00.000Z
+pubDatetime: 2026-06-13T02:30:00.000Z
 tags:
   - Astro
   - GitHub Pages
